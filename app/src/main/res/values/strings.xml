@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Mahasiswa</string>
+    <string name="data_mahasiswa">Data Mahasiswa</string>
+    <string name="nim_mahasiswa">NIM:</string>
+    <string name="nama_mahasiswa">Nama Lengkap:</string>
+    <string name="tgl_lahir_mahasiswa">Tanggal Lahir:</string>
+    <string name="alamat_mahasiswa">Alamat:</string>
+    <string name="simpan_data_baru">Simpan Data baru</string>
+    <string name="alamat_lengkap">Alamat Lengkap</string>
+    <string name="tanggal_lahir">Tanggal Lahir (DD-MM-YYYY)</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="laki_laki">Laki-Laki</string>
+    <string name="jenis_kelamin">Jenis Kelamin:</string>
+    <string name="fakultas_jurusan">Fakultas/Jurusan:</string>
+    <string name="masukan_nama">Masukan Nama</string>
+    <string name="masukan_nim">Masukan NIM</string>
+    <string name="editData">Edit Data</string>
+    <string name="delData">Delete Data</string>
+    <string name="update_data_baru">updateData</string>
+    <string name="lihat_data_yang_tersimpan">Lihat Data Yang Tersimpan</string>
+    <string-array name="daftar_jurusan">
+        <item>Sistem Komputer</item>
+        <item>Sistem Informasi</item>
+        <item>Manajemen Informatika</item>
+    </string-array>
+</resources>
